@@ -1,2 +1,4 @@
 # FCC-PeriodicTableDatabase
-FreeCodeCamp Certification 4th Certification Activity
+Licup Jr Rommel     CYB-201
+FreeCodeCamp 4th Certification Activity
+
